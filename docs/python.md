@@ -18,3 +18,10 @@ Python — это высокоуровневый, интерпретируемы
 
 - [PEP 257 – Docstring Conventions](https://peps.python.org/pep-0257/) - официальный PEP 257, на английском.
 - [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/) - официальный PEP 8, на английском.
+
+### Переменные и типы данных
+
+- [Переменные, константы и литералы в Python](https://codechick.io/tutorials/python/variables-constants-literals)
+- [Типы данных в Python](https://codechick.io/tutorials/python/variables-datatypes)
+- [Переменные в Python](https://diveintopython.org/ru/learn/variables)
+- [Типы и структуры данных](https://ru.wikipedia.org/wiki/Python#%D0%A2%D0%B8%D0%BF%D1%8B_%D0%B8_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
